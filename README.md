@@ -16,7 +16,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Install : 
-A Linter for HTML & CSS
+A Linter for HTML & CSS 
 
 
 
